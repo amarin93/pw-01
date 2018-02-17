@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:700|Roboto+Slab');
+body{
+    font-family: "Lato",    sans-serif;
+}
+
+h1, h2, h3, h4, h5,{
+    font-family: "Roboto Slab", serif;
+}
+
+.portada{
+    background-image:url("../images/premier challenger promo 2018 feb.png");
+    margin-top: 24px;
+}
