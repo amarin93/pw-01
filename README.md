@@ -1,2 +1,3 @@
 # pw-01
-ejercicio de clase de programación web y multimedia
+Ejercicio 01 de clase de programación web y multimedia
+Autor: Angel U. Marín Utrera, ID:00168497
